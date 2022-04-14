@@ -11,5 +11,5 @@
 ## Restições 
 ### <ul><li>5 ≤ N ≤ 100</li></ul>
 ## Resultado 
-### Este foi o resultado do meu código no simulador oficial.
+### Este foi o resultado do meu código no simulador oficial:
 <img src="https://cdn.discordapp.com/attachments/898218683871141919/963971927532249148/unknown.png">
