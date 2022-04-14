@@ -11,4 +11,4 @@
 ## Restições 
 ### <ul><li>5 ≤ N ≤ 100</li></ul>
 ## Resultado 
-<img url="https://cdn.discordapp.com/attachments/898218683871141919/963971927532249148/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/898218683871141919/963971927532249148/unknown.png">
