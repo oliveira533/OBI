@@ -1,5 +1,5 @@
 # OBI
-## Repositório com o os prejotos passados da OBI
+## Repositório com o os projetos passados da OBI
 
 
 <ul>
