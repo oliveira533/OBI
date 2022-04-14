@@ -1,5 +1,7 @@
 # <a href="https://olimpiada.ic.unicamp.br">OBI(Olimpíada Brasileira de Informática)</a>
-### Cada pasta contem um projeto utilzado com todas informações possíveis
+### Um repositório feito para os projetos feitos em OBI anteriores.
+### Utilizado como forma de treino.
+### Cada pasta contém mais informações sobre os prjetos.
 
 ## Linguagens permitidas e as formas de entrada e sáida
 <ul>
