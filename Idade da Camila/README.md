@@ -9,7 +9,9 @@
 ### <p>Seu programa deve produzir uma única linha, contendo um único número inteiro, a idade de Camila.</p>
 #### utilizei print como saída padrão.
 ## Restições 
-### <ul><li>5 ≤ N ≤ 100</li></ul>
+### <ul>
+  <li>5 ≤ N ≤ 100</li>
+</ul>
 ## Resultado 
 ### Este foi o resultado do meu código no simulador oficial:
 <img src="https://cdn.discordapp.com/attachments/898218683871141919/963971927532249148/unknown.png">
