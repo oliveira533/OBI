@@ -1,27 +1,29 @@
-nAlunos = int(input())
-sCamisetas = int(input())
-nPequena = int(input())
-nMedia = int(input())
-sAux = str(sCamisetas)
+nAlunos = int(input()) # peguei o valor com um input, mas um valor inteiro /  guarda a quantidade de alunos
+sCamisetas = int(input()) # peguei o valor com um input, mas um valor inteiro / guarda os tamanhos das camisetas
+nPequena = int(input()) # peguei o valor com um input, mas um valor inteiro / guarda a quantidade solicitada de camisetas pequenas
+nMedia = int(input()) # peguei o valor com um input, mas um valor inteiro / guara a quantidade solicatada de camisetas medias
+sAux = str(sCamisetas) # converti a variável quee pega os tamanhos das camisetas em string
 
 def fnContaCamisa():
-    if nAlunos >= 0 and nAlunos <= 1000:
-        if nPequena >= 0 and nPequena <= 1000 and nMedia >= 0 and nMedia <= 1000:
-            if nAlunos == (nPequena + nMedia):
-                nCamisas = list(sAux)
-                i = 0
-                nNum1 = 0
-                nNum2 = 0
-                while i < len(nCamisas):
+    if nAlunos >= 0 and nAlunos <= 1000: # teste de restrições
+        if nPequena >= 0 and nPequena <= 1000 and nMedia >= 0 and nMedia <= 1000: # teste de restições 
+            if nAlunos == (nPequena + nMedia): # teste de restições 
+                nCamisas = list(sAux) # criando uma com os tamanhos das camisetas
+                i = 0 # variável contador
+                nNum1 = 0 # variável contador de camisetas pequenas
+                nNum2 = 0 # variável contador de camisetas médias
+
+                # bloco de códigos para quanto tem de cada camiseta
+                while i < len(nCamisas): 
                     if nCamisas[i] == '1':
-                        nNum1 += 1
+                        nNum1 += 1 # soma um nas pequqenas 
                     else:
-                        nNum2 += 1
+                        nNum2 += 1 # soma um nas médias
                     i += 1
-                if nPequena == nNum1 and nMedia == nNum2 and nAlunos == len(nCamisas):
-                    print("S")
+                if nPequena == nNum1 and nMedia == nNum2 and nAlunos == len(nCamisas): # teste de restrições
+                    print("S") # resultado positvo
                 else:
-                    print("N")
+                    print("N") # resultado negativo
     
 
 fnContaCamisa()
