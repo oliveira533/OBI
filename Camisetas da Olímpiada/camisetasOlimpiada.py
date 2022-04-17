@@ -1,6 +1,3 @@
-import string
-
-
 nAlunos = int(input())
 sCamisetas = int(input())
 nPequena = int(input())
