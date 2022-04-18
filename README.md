@@ -17,8 +17,8 @@
 <ul>
  <li>2021
   <ul>
-    <li><a href="https://github.com/oliveira533/OBI/tree/main/Idade%20da%20Camila">Idade de Camila (OBI-2021-Primeira fase)</a> <label>Feito em python</label></li>
- <li><a href="https://github.com/oliveira533/OBI/tree/main/Zero%20para%20cancelar">Zero para Canelar (OBI-2021-Primeira fase)</a> <label>Feito em python</label></li>
+    <li><a href="https://github.com/oliveira533/OBI/tree/main/Idade%20da%20Camila">Idade de Camila (Primeira fase)</a> <label>Feito em python</label></li>
+ <li><a href="https://github.com/oliveira533/OBI/tree/main/Zero%20para%20cancelar">Zero para Canelar (Primeira fase)</a> <label>Feito em python</label></li>
   </ul>
  <li>2020
   <ul>
