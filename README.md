@@ -22,7 +22,7 @@
   </ul>
  <li>2020
   <ul>
-   <li><a href="https://github.com/oliveira533/OBI/tree/main/Camisetas%20da%20Ol%C3%ADmpiada">Camisas da Oímpiada (OBI-2020-Primeira fase)</a> <label>Feito em python</label></li>
+   <li><a href="https://github.com/oliveira533/OBI/tree/main/Camisetas%20da%20Ol%C3%ADmpiada">Camisas da Oímpiada (Primeira fase)</a> <label>Feito em python</label></li>
   </ul>
  </li>
 </ul>
