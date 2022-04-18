@@ -1,6 +1,10 @@
-nNumeros = int(input()) # peguei o valor uando uminput, mas somente inteiros
-sAux = str(nNumeros) # converto os valores inteiros para uma string
-nValores = list(sAux) # crio uma lista com os valotes que eu tenho
+nQuantidade = int(input()) # peguei a quantidade de valores que vão ser inseridos
+nValores = [] # criei a lista dos valores
+
+# bloco de código para para pegar os valores da lista
+for x in range(nQuantidade):
+    nValores[nQuantidade] = int(input())
+
 nCont = 0 # crio um contador
 nLimite = len(nValores) # defino uma variável para ser usada como limete do meu contador
 i = 0 # variável de contadore
