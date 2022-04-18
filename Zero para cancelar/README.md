@@ -16,3 +16,4 @@
 ### <ul><li>5 ≤ P ≤ 1000</li> <li>5 ≤ N ≤ 1000</li> <li>5 ≤ M ≤ 1000</li> <li>N = P + M</li> <li>1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N</li></ul>
 ## Resultado 
 ### Não consegui testar
+# Ele está com a entrada errada
