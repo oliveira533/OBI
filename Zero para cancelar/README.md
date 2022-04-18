@@ -5,7 +5,7 @@
 ### <p>Infelizmente, seu chefe pode cometer erros repetidos, e diz "zero" para cada erro.</p>
 ### <p>Por exemplo, seu chefe pode falar ao telefone "Um, três, cinco, quatro, zero, zero, sete, zero, zero, seis", o que significa uma soma total igual a 7, conforme explicado na tabela abaixo:</p>
 <img src="https://cdn.discordapp.com/attachments/898218683871141919/965403213111119922/unknown.png"/>
-### <p>Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.</p>
+### Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
 ## Entrada
 ### <p>A primeira linha da entrada contém um inteiro N, a quantidade de números inteiros (incluindo os "zeros") que o seu chefe falou ao telefone. Cada uma das N linhas seguintes contém um número inteiro Xi.</p>
 #### utilizei o input como entrada padrão.
