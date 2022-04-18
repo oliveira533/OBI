@@ -3,9 +3,7 @@
 ### <p>Infelizmente, de vez em quando seu chefe fala números errados para você ao telefone.</p>
 ### <p>Felizmente, seu chefe rapidamente percebe que falou um número errado e diz "zero", que como combinado previamente quer dizer ignore o último número corrente.</p>
 ### <p>Infelizmente, seu chefe pode cometer erros repetidos, e diz "zero" para cada erro.</p>
-### <p>Por exemplo, seu chefe pode falar ao telefone "Um, três, cinco, quatro, zero, zero, sete, zero, zero, seis", o que significa uma soma total igual a 7, conforme explicado na tabela abaixo:</p>
-<img src="https://cdn.discordapp.com/attachments/898218683871141919/965403213111119922/unknown.png"/>
-### Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
+### <p>Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone. </p>
 ## Entrada
 ### <p>A primeira linha da entrada contém um inteiro N, a quantidade de números inteiros (incluindo os "zeros") que o seu chefe falou ao telefone. Cada uma das N linhas seguintes contém um número inteiro Xi.</p>
 #### utilizei o input como entrada padrão.
