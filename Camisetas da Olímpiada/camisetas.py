@@ -21,9 +21,9 @@ def fnContaCamisa():
                         nNum2 += 1 # soma um nas médias
                     i += 1
                 if nPequena == nNum1 and nMedia == nNum2 and nAlunos == len(nCamisas): # teste de restrições
-                    print("S") # resultado positvo
+                    print('S') # resultado positvo
                 else:
-                    print("N") # resultado negativo
+                    print('N') # resultado negativo
     
 
 fnContaCamisa()
