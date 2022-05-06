@@ -11,4 +11,4 @@
 ## Restições 
 ### <ul><li>5 ≤ P ≤ 1000</li> <li>5 ≤ N ≤ 1000</li> <li>5 ≤ M ≤ 1000</li> <li>N = P + M</li> <li>1 ≤ Xi ≤ 2 para 1 ≤ i ≤ N</li></ul>
 ## Resultado 
-### Não consegui testar
+<img src="https://cdn.discordapp.com/attachments/898218683871141919/971943246236385310/unknown.png">
