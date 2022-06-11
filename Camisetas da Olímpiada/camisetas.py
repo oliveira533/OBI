@@ -7,7 +7,7 @@ def fnContaCamisa():
     if nAlunos >= 0 and nAlunos <= 1000: # teste de restrições
         if nPequena >= 0 and nPequena <= 1000 and nMedia >= 0 and nMedia <= 1000: # teste de restições 
             if nAlunos == (nPequena + nMedia): # teste de restições 
-                nCamisas = list(sCamisetas.replace(" ", "")) # criando uma com os tamanhos das camisetas
+                nCamisas = list(sCamisetas.replace(" ", "")) # criando uma lista com os tamanhos das camisetas
                 i = 0 # variável contador
                 nNum1 = 0 # variável contador de camisetas pequenas
                 nNum2 = 0 # variável contador de camisetas médias
