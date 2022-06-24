@@ -2,18 +2,12 @@ nQuantidade = int(input()) # peguei a quantidade de valores que vão ser inserid
 x = 0 # criei uma variavel de contador
 sAux= '' # crio uma variavel auxiliar
 i = 0 # criei mais  uma variavel de contador 
+nValores = []
 
-# agora eu faço uma grande gambiarra para poder criar uma lista do tamanho que é preciso
-while i < nQuantidade:
-    sAux += 'a'
-    i+=1
-nValores = list(sAux)
-
-# bloco de código para para pegar os valores da lista
+# adicionando valores na lista
 while x < nQuantidade:
-    nValores[x] = int(input())
+    nValores[x].append(int(input()))
     x+=1
-# print(nValores[0])
 
 nCont = 0 # crio um contador
 nLimite = len(nValores) # defino uma variável para ser usada como limete do meu contador
