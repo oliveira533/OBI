@@ -6,7 +6,7 @@ nValores = []
 
 # adicionando valores na lista
 while x < nQuantidade:
-    nValores[x].append(int(input()))
+    nValores.append(int(input()))
     x+=1
 
 nCont = 0 # crio um contador
